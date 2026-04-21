@@ -33,4 +33,4 @@ You will need [Node.js](https://nodejs.org/) installed on your computer.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/shankar-code122/new-code.git
+   git clone https://github.com/shankar-code122/Final-Quick-Note-Taker-.git
